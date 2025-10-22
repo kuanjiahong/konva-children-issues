@@ -1,3 +1,5 @@
+This repo is related to this issue https://github.com/konvajs/konva/issues/1987
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
