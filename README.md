@@ -1,5 +1,7 @@
 This repo is related to this issue https://github.com/konvajs/konva/issues/1987
 
+2025-10-23: The issue is resolved by upgrading konva to 10.0.5
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
